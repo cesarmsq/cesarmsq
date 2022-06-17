@@ -14,9 +14,6 @@ I have been involved in Data Science projects, since the beginning of my career,
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmsq&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cesarmsq&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
@@ -34,3 +31,6 @@ I have been involved in Data Science projects, since the beginning of my career,
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   
  [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cesarmsq&&theme=xcode)](https://github.com/cesarmsq)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmsq&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cesarmsq&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
