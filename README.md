@@ -1,6 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://lh4.googleusercontent.com/_BuzO2e9ldH0HG0ABB2pjeKc4YiusY__T47JxlFw4E0gawVNhUEbD7VN14fTWC9qQcfgd11H8jRBMg=w1365-h660-rw">
 <h1 align="center">Cesar Supo</h1>
 <h3 align="center">A passionate Data Science from Perú</h3>
+I'm passionate data science and always trying to improve my skills.
+I have been involved in Data Science projects, since the beginning of my career, and had the opportunity to participate in several hackathons, obtaining good results.
+
 
 - 🌱 I’m currently learning **Data SCience**
 
@@ -8,6 +11,7 @@
 
 - 📫 How to reach me: **sqcesarmanuel@gmail.com**
 
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmsq)](https://github.com/anuraghazra/github-readme-stats)
 
